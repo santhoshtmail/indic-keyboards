@@ -1,6 +1,6 @@
 /** ********************************************************************
  * File:           InitWin.java 
- * Description:    Initialize MIKI on Windows.
+ * Description:    Initialize indic-keyboards on Windows.
  * Authors:        Akshay,Abhinava,Revati,Arun 
  * Created:        Mon July 2 19:31:25 GMT 2009
  *
@@ -17,18 +17,6 @@
  *
  **********************************************************************/
 
-/*
- * Common Keboard interface module
- *
- * SWT is used for the shell extension.
- * Main part is the interface.
- * 
- * @version 0.1
- */
-/**
- * package core is the source package
- * for Common Keyboard Interface
- */
 package org.iisc.mile.indickeyboards.windows;
 
 import java.io.FileNotFoundException;
