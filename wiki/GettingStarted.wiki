@@ -1,0 +1,55 @@
+#summary How to download and run indic-keyboards.
+#labels Phase-Deploy,Phase-Support,Featured
+
+= How to download =
+
+Visit http://code.google.com/p/indic-keyboards/downloads/list and select the download that is most suitable. The file name will look like:
+  * For windows - indic-keyboards-x.x-winyy-xzz.zip. For example : indic-keyboards-0.1-win32-x86.zip states that the download is of version 0.1 for Windows 32-bit running on x86 architecture.
+  * For linux - indic-keyboards-x.x-linux-xyy.zip. For example : indic-keyboards-0.1-linux-x86_64.zip states that the download is of version 0.1 for Linux running on x86_64 or amd64 architecture.
+
+------------------
+= How to unzip and get started =
+
+The software will be distributed as a .zip file. Extract the contents to a folder of your choice. The folder will contain the following: 
+
+{{{
+indic-keyboards-x.x-yyy-xzz.zip
+	|
+	|-<kblayouts>  : Contains all the XML files corresponding to the keyboard layouts
+	|-<resources>  : Contains the images and  system tray icons
+	|-Syshook.dll* 
+	|-opChars.dll*
+	|-libMIKI-x86.so.1.0*
+	|-libMIKI-x86_64.so.1.0*
+	|-preferences.conf : Configuration information file for linux only.
+	|-indic-keyboards-xxx-x86_xx.jar : Executable java archive.
+	|-License document :  Apache 2.0 license.
+*Depends on the package downloaded.
+}}}
+	
+Open the folder and select/click the file named indic-keyboards-xxx-x86_xx.jar. A splash screen is invoked and the icon appears in the system tray/notification area.
+
+http://indic-keyboards.googlecode.com/svn/docs/images/startup.jpg
+<p>
+<p>
+<p>Right click on the icon. The main menu will pop-up as shown below
+
+http://indic-keyboards.googlecode.com/svn/docs/images/mainmenu.jpg
+<p>
+<p>Select the language you want to type in. For example, if you select Kannada, a sub menu will show up containing the offered keyboard layouts for Kannada. Select the keyboard layout you want to use. A keyboard layout here is the mapping of language-specific characters onto the English characters on the standard QWERTY keyboard layout.
+Indic-Keyboards offers two types of input methods:
+  # Popular Keyboard Layouts : Keyboard layouts like KaGaPa, Tamil99, Remington, Inscript (For all languages) etc.
+  # Phonetic Styled Input : In this method, the user has to type in the characters as it sounds or is pronounced. 
+<p>Once selected, a balloon pops up and displays the language and the keyboard layout selected.  The tray icon is changed to the “a” of the language selected. 
+
+http://indic-keyboards.googlecode.com/svn/docs/images/languageselected.jpg
+<p>
+<p>To start typing in the selected language-layout, press “Alt + F12” or go to the main menu and click on “Enable” option provided.  The software can be enabled or disabled whenever the user wants to alternate between English and the selected language. 
+Open the application you want to run the software on. The application can be Notepad, WordPad, Microsoft Word, Microsoft PowerPoint etc. for Microsoft Windows and Linux applications Gedit, OpenOffice.org, Kate etc. *The software practically runs on ANY application which supports Unicode.*
+<p>
+For a user who is not familiar with a keyboard layout he/she is using, an option to view the current layout is provided. He can do so by clicking on “Show Current Layout” option in the menu. For example, if the language selected is Kannada and the layout selected is KaGaPa, then by clicking on the “Show Current Layout” option, the following image appears which can be used to familiarize with the layout. The Kannada KaGaPa layout is as follows:
+
+http://indic-keyboards.googlecode.com/svn/docs/images/kagapa.png
+
+
+ 
