@@ -1,0 +1,148 @@
+#summary Key maps for better understandability
+#labels Featured,Phase-Support
+
+The following tables shows the key and its corresponding output unicode for phonetic and inscript layouts.
+
+= Phonetic Key Map =
+
+==Swaras (Vowels)==
+||*Language*	||*a*	||*A*	||*i*	||*I*	||*u*	||*U*	||*R*	||*e*	||*E*	||*Y*	||*o*	||*O*	||*V*	||*M*	||*H*||
+||*Kannada*	||ಅ	||ಆ	||ಇ	||ಈ	||ಉ	||ಊ	||ಋ	||ಎ	||ಏ	||ಐ	||ಒ	||ಓ	||ಔ	||ಅಂ	||ಅಃ||
+||*Hindi*	||अ	||आ	||इ	||ई	||उ	||ऊ	||ऋ	||ऎ	||ए	||ऐ	||ऒ	||ओ	||औ	||अं	||अः||
+||*Gujarati*	||અ	||આ	||ઇ	||ઈ	||ઉ	||ઊ	||ઋ	||એ	||ઍ	||ઐ	||ઓ	||ઑ	||ઔ	||અં	||અઃ||
+||*Telugu*	||అ	||ఆ	||ఇ	||ఈ	||ఉ	||ఊ	||ఋ	||ఎ	||ఏ	||ఐ	||ఒ	||ఓ	||ఔ	||అం	||అః||
+||*Tamil*	||அ	||ஆ	||இ	||ஈ	||உ	||ஊ	||	||எ	||ஏ	||ஐ	||ஒ	||ஓ	||ஔ	||அஂ	||ஆஃ||
+
+<p>
+==Vyanjanas (Consonants)==
+||Language	||ka	||Ka	||ga	||Ga	||Z||
+||Kannada	||ಕ	||ಖ	||ಗ	||ಘ	||ಙ||
+||Hindi	||क	||ख	||ग	||घ	||ङ्||
+||	||ca	||Ca	||ja	||Ja	||z||
+||Kannada	||ಚ	||ಛ	||ಜ	||ಝ	||ಞ||
+||Hindi	||च	||छ	||ज	||झ	||ञ||
+||	||ta	||Ta	||da	||Da	||Na||
+||Kannada	||ಟ	||ಠ	||ಡ	||ಢ	||ಣ||
+||Hindi	||ट	||ठ	||ड	||ढ	||ण||
+||	||tha	||Tha	||dha	||Dha	||Na||
+||Kannada	||ತ	||ಥ	||ದ	||ಧ	||ನ||
+||Hindi	||त	||थ	||द	||ध	||न||
+||	||pa	||Pa	||ba	||Ba	||Ma||
+||Kannada	||ಪ	||ಫ	||ಬ	||ಭ	||ಮ||
+||Hindi	||प	||फ	||ब	||भ	||म||
+||	||ya	||ra	||la	||va	||sha	||Sha or x	||sa	||ha	||La||
+||Kannada	||ಯ	||ರ	||ಲ	||ವ	||ಶ	||ಷ	||ಸ	||ಹ	||ಳ||
+||Hindi	||य	||र	||ल	||व	||श	||ष	||स	||ह	||ळ||
+
+<p>
+==Tamil Consonants - Phonetic==
+||ka/ga	||Za/Ga||
+||க	||ங||
+||ca	||ja	||za||
+||ச	||ஜ	||ஞ||
+||ta/da	||Na	||na||
+||ட	||ண	||ந||
+||tha/dha	||qa||
+||த	||ன||
+||pa/ba	||ma	||M||
+||ப	||ம	||ஂ||
+||ya	||ra	||Ra	||la	||La	||Qa	||va	||sa	||ha	||H	||xa	||Xa||
+||ய	||ர	||ற	||ல	||ள	||ழ	||வ	||ஸ	||ஹ	||ஃ	||ஷ	||க்ஷ||
+
+_*NOTE: "au" is mapped to "V" and "ai"/"ae" is mapped to "Y". Scroll down to find examples.*_
+------------------------
+
+= Inscript Key Map = 
+
+The keyboard mappings for the inscript keyboard layouts.
+
+==Swaras  (vowels)==
+===Independent===
+||Language	||D	||E	||F	||R	||G	||T	||S	||Z	||W	||!	||A	|||	||Q||
+||Kannada	||ಅ	||ಆ	||ಇ	||ಈ	||ಉ	||ಊ	||ಏ	||ಎ	||ಐ	||	||ಓ	||	||ಔ||
+||Hindi	||अ	||आ	||इ	||ई	||उ	||ऊ	||ए	||ऎ	||ऐ	||ऍ	||ओ	||ऑ	||औ||
+||Gujarati	||અ	||આ	||ઇ	||ઈ	||ઉ	||ઊ	||એ	||ૐ	||ઐ	||ઍ	||ઓ	||ઑ	||ઔ||
+||Telugu	||అ	||ఆ	||ఇ	||ఈ	||ఉ	||ఊ	||ఏ	||ఎ	||ఐ	||	||ఓ	||	||ఓ||
+||Tamil	||அ	||ஆ	||இ	||ஈ	||உ	||ஊ	||ஏ	||எ	||ஐ	||	||ஓ	||	||ஔ||
+||Malayalam	||അ	||ആ	||ഇ	||ഈ	||ഉ	||ഊ	||ഏ	||എ	||ഐ	||	||ഓ	||	||ഔ||
+||Bengali	||অ	||আ	||ই	||ঈ	||উ	||ঊ	||এ	||	||ঐ	||	||ও	||	||ঔ||
+||Punjabi	||ਅ	||ਆ	||ਇ	||ਈ	||ਉ	||ਊ	||ਏ	||	||ਐ	||	||ਓ	||	||ਔ||
+||Oriya	||ଅ	||ଆ	||ଇ	||ଈ	||ଉ	||ଊ	||ଏ	||	||ଐ	||	||ଓ	||	||ଔ||
+
+<p>
+<p>
+===Dependent===
+||Language	||E	||f	||r	||g	||t	||s	||z	||@	||a	||\	||q	||X	||x||
+||Kannada	||ಾ	||ಿ	||ೇ	||ು	||ೂ	||ೇ	||ೆ	||	||ೋ	||	||ೌ	||	||ಂ||
+||Hindi	||ा	||ि	||ी	||ु	||ू	||े	||ॆ	||ॅ	||ो	||ॉ	||ौ	||ँ	||ं||
+||Gujarati	||ા	||િ	||ી	||ુ	||ૂ	||ે	||૱	||ૅ	||ો	||ૉ	||ૌ	||ઁ	||ં||
+||Telugu	||ా	||ి	||ీ	||ు	||ూ	||ే	||ె	||	||ో	||	||ౌ	||	||ం||
+||Tamil	||ா	||ி	||ீ	||	||	||ே	||ெ	||	||ோ	||	||ௌ	||	||	||
+||Malayalam	||ാ	||ി	||ീ	||ു	||ൂ	||േ	||െ	||	||ോ	||	||ൌ	||	||ം||
+||Bengali	||া	||ি	||ে	||ু	||ূ	||ে	||	||	||ো	||	||ৌ	||	||ং||
+||Punjabi	||ਾ	||ਿ	||ੀ	||ੁ	||ੂ	||ੇ	||	||	||ੋ	||	||ੌ	||	||ਂ||
+||Oriya	||ା	||ି	||ୀ	||ୁ	||ୂ	||େ	||	||	||ୋ	||	||ୌ	||	||ଂ||
+
+<p>
+
+===Vyanajanas (Consonants)===
+||Language	||k	||K	||i	||I	||U||
+||Hindi	||क	||ख	||ग	||घ	||ङ||
+||Kannada	||ಕ	||ಖ	||ಗ	||ಘ	||ಙ||
+||	||;	||:	||p	||P	||}||
+||Hindi	||च	||छ	||ज	||झ	||ञ||
+||Kannada	||ಚ	||ಛ	||	||ಝ	||ಞ||
+||	||‘	||“	||[	||{	||C||
+||Hindi	||ट	||ठ	||ड	||ढ	||ण||
+||Kannada	||ಟ	||ಠ	||ಡ	||ಢ	||ಣ||
+||	||l	||L	||o	||O	||v||
+||Hindi	||त	||थ	||द	||ध	||न||
+||Kannada	||ತ	||ಥ	||ದ	||ಧ	||ನ||
+||	||h	||H	||y	||Y	||c||
+||Hindi	||प	||फ	||ब	||भ	||म||
+||Kannada	||ಪ	||ಫ	||ಬ	||ಭ	||ಮ||
+||	||/	||j	||n	||b	||M||
+||Hindi	||य	||र	||ल	||व	||श||
+||Kannada	||ಯ	||ರ	||ಲ	||ವ	||ಶ||
+||	||<	||m	||u	||B	||%||
+||Hindi	||ष	||स	||ह	||	||ग्ञ||
+||Kannada	||ಷ	||ಸ	||ಹ	||	||ಜ್ಞ||
+
+<p>
+||	||^	||&	||'*'||		
+||Hindi	||त्र	||क्ष	||श्र||		
+||Kannada	||ತ್ರ	||ಕ್ಷ	||ಶ್ರ||	
+
+
+---------------
+==Examples==
+===Some simple sentences typed using Phonetic and Inscript layout for Hindi===
+  # PHONETIC
+    * thumhArA nAm kyA hY?
+      तुम्हारा नाम् क्या है? 
+    * mErA BArath mahAn
+      मेरा भारत् महान्|
+  # INSCRIPT
+    * lgc FOj EA
+      तुम इधर आओ
+    * Ojer iAn uw
+      धरती गोल है
+
+The same keyboard can be used to type Marathi also as Hindi & Marathi both use the Devanagari script. An example Marathi sentence is:
+    * cje”r mahr Ye<e Eus
+      मराठी सोपी भाषा आहे
+
+
+
+
+
+
+
+
+
+
+
+-------------------
+For popular layouts like KaGaPa, Remington and Tamil99, the "Show Current Layout" option can be used to view the keymap.
+
+*The key map assignment can be changed dynamically by altering the xml files. Please see HowToChangeKeyMap wiki page for more information.*
