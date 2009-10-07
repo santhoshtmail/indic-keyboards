@@ -1,0 +1,30 @@
+#summary System Requirements for developers and users
+#labels Phase-Requirements
+
+= Requirements =
+
+Works on Microsoft Windows family and Linux 2.4.x or higher
+
+==For Users==
+  * Microsoft Windows or GNU/Linux (Kernel 2.4 or higher).
+  * Java Runtime Environment (JRE) 5 or higher.
+
+==For Developers==
+  * JDK 1.6 or higher
+  * Microsoft Visual C++ 6.0 or higher
+  * gcc – GNU Compiler Collection
+  * Eclipse SWT
+  * Eclipse IDE (optional)
+  * Ant 1.5 or higher (optional)
+  * Subversion
+
+===_"How to build from source" can be found in HowToBuild wiki page_===  
+===_"How to get started" can be found in GettingStarted wiki page_===
+
+==External Links :==
+  * Java Runtime Environment (JRE) [http://java.com/en/download/manual.jsp link]
+  * Java Development Kit (JDK) [http://java.sun.com/javase/downloads/index.jsp link]
+  * Eclipse IDE [http://www.eclipse.org/downloads/ link]
+  * Apache Ant [http://ant.apache.org/bindownload.cgi link]
+  * Subversion clients [http://subversion.tigris.org/links.html#clients link]
+  * Microsoft Visual C++ [http://msdn.microsoft.com/en-us/visualc/aa336402.aspx link]
