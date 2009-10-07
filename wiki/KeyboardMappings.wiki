@@ -1,11 +1,11 @@
 #summary Key maps for better understandability
 #labels Featured,Phase-Support
 
-The following tables shows the key and its corresponding output unicode for phonetic and inscript layouts.
+The following tables shows the key and its corresponding output Unicode for phonetic and Inscript layouts.
 
 = Phonetic Key Map =
 
-==Swaras (Vowels)==
+==Swaras (Vowels) both Independent and Dependent==
 ||*Language*	||*a*	||*A*	||*i*	||*I*	||*u*	||*U*	||*R*	||*e*	||*E*	||*Y*	||*o*	||*O*	||*V*	||*M*	||*H*||
 ||*Kannada*	||ಅ	||ಆ	||ಇ	||ಈ	||ಉ	||ಊ	||ಋ	||ಎ	||ಏ	||ಐ	||ಒ	||ಓ	||ಔ	||ಅಂ	||ಅಃ||
 ||*Hindi*	||अ	||आ	||इ	||ई	||उ	||ऊ	||ऋ	||ऎ	||ए	||ऐ	||ऒ	||ओ	||औ	||अं	||अः||
@@ -30,9 +30,9 @@ The following tables shows the key and its corresponding output unicode for phon
 ||	||pa	||Pa	||ba	||Ba	||Ma||
 ||Kannada	||ಪ	||ಫ	||ಬ	||ಭ	||ಮ||
 ||Hindi	||प	||फ	||ब	||भ	||म||
-||	||ya	||ra	||la	||va	||sha	||Sha or x	||sa	||ha	||La||
-||Kannada	||ಯ	||ರ	||ಲ	||ವ	||ಶ	||ಷ	||ಸ	||ಹ	||ಳ||
-||Hindi	||य	||र	||ल	||व	||श	||ष	||स	||ह	||ळ||
+||	||ya	||ra	||la	||va	||sha	||Sha or x	||sa	||ha	||La	||Xa||
+||Kannada	||ಯ	||ರ	||ಲ	||ವ	||ಶ	||ಷ	||ಸ	||ಹ	||ಳ	||ಕ್ಷ||
+||Hindi	||य	||र	||ल	||व	||श	||ष	||स	||ह	||ळ	||क्ष||
 
 <p>
 ==Tamil Consonants - Phonetic==
