@@ -32,7 +32,15 @@ Open the folder and select/click the file named indic-keyboards-xxx-x86_xx.jar. 
 http://indic-keyboards.googlecode.com/svn/docs/images/startup.jpg
 <p>
 <p>
-<p>Right click on the icon. The main menu will pop-up as shown below
+<p>
+*NOTE* :
+  # In Linux, _*root user privileges*_ are required to use indic-keyboards. 
+  # If clicking the JAR file doesn't start the software, right click the JAR file and try opening it with Java. If this too doesn't work, open a *terminal* and type in the following : 
+{{{
+[user@localhost /]$ cd to-the-unzipped-directory
+[user@localhost to-the-unzipped-directory]$ sudo java -jar indic-keyboards-xxx-x86_xx.jar
+}}}
+Right click on the icon. The main menu will pop-up as shown below
 
 http://indic-keyboards.googlecode.com/svn/docs/images/mainmenu.jpg
 <p>
