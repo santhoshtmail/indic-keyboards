@@ -40,14 +40,14 @@ The following tables shows the key and its corresponding output Unicode for phon
 ||க	||ங||
 ||ca	||ja	||za||
 ||ச	||ஜ	||ஞ||
-||ta/da	||Na	||na||
-||ட	||ண	||ந||
-||tha/dha	||qa||
-||த	||ன||
+||ta/da	||Na	||
+||ட	||ண	||
+||tha/dha	||na||
+||த	||ந||
 ||pa/ba	||ma	||M||
 ||ப	||ம	||ஂ||
-||ya	||ra	||Ra	||la	||La	||Qa	||va	||sa	||ha	||H	||xa	||Xa||
-||ய	||ர	||ற	||ல	||ள	||ழ	||வ	||ஸ	||ஹ	||ஃ	||ஷ	||க்ஷ||
+||ya	||ra	||Ra	||la	||La	||Qa	||va	||sa	||ha	||H	||xa	||Xa||qa||
+||ய	||ர	||ற	||ல	||ள	||ழ	||வ	||ஸ	||ஹ	||ஃ	||ஷ	||க்ஷ||ன||
 
 _*NOTE: "au" is mapped to "V" and "ai"/"ae" is mapped to "Y". Scroll down to find examples.*_
 ------------------------
