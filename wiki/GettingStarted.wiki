@@ -34,7 +34,7 @@ http://indic-keyboards.googlecode.com/svn/docs/images/startup.jpg
 <p>
 <p>
 *NOTE* :
-  # In Linux, _*root user privileges*_ are required to use indic-keyboards. 
+  # In Linux, _*super user privileges*_ are required to use indic-keyboards. Either login as root or use *_sudo_* to start the software.
   # If clicking the JAR file doesn't start the software, right click the JAR file and try opening it with Java. If this too doesn't work, open a *terminal* and type in the following : 
 {{{
 [user@localhost /]$ cd to-the-unzipped-directory
