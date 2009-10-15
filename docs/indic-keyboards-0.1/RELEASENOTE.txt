@@ -18,4 +18,5 @@ indic-keyboards-0.2 :
 
 	1. Performance enhancements - Impoving the overall response time.
 	2. Addition of a "Tutor Mode" which can also be used a Unicode text editor.
-	3. Addition of a user interface to add and edit keyboard layouts with second level modifier (Ex : KaGaPa).
+	3. Addition of a user interface to add and edit keyboard layouts with second level modifiers (Ex : KaGaPa).
+	4. Enable the software to run with user privileges (Resolve the super user privilege dependency).
