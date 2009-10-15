@@ -1,0 +1,21 @@
+indic-keyboards-0.1
+-------------------
+
+What's New (version 0.1)
+------------------------
+
+1. Tamil99 layout rules added.
+2. Corrected the mismatched mappings for other layouts.
+3. Added help pages to the "wiki" section and offline help feature provided.
+4. Show Current Layout works for all the keyboard layouts.
+5. Code unification - Linux/Windows source are unified.
+6. Added ant build scripts for both Windows and Linux.
+7. Icons changed.
+
+Roadmap
+-------
+indic-keyboards-0.2 :
+
+	1. Performance enhancements - Impoving the overall response time.
+	2. Addition of a "Tutor Mode" which can also be used a Unicode text editor.
+	3. Addition of a user interface to add and edit keyboard layouts with second level modifier (Ex : KaGaPa).
