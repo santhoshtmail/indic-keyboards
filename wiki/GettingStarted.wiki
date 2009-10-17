@@ -40,6 +40,7 @@ http://indic-keyboards.googlecode.com/svn/docs/images/startup.jpg
 [user@localhost /]$ cd to-the-unzipped-directory
 [user@localhost to-the-unzipped-directory]$ sudo java -jar indic-keyboards-xxx-x86_xx.jar
 }}}
+  # A 64-bit JRE will require the 64-bit version of indic-keyboards. Similarly, it is not possible to run the 64-bit version of indic-keyboards on a 32-bit JRE. On the other hand, it is possible to install a 32-bit JRE on a 64-bit machine in which case, download and run the 32-bit indic-keyboard release. 
 Right click on the icon. The main menu will pop-up as shown below
 
 http://indic-keyboards.googlecode.com/svn/docs/images/mainmenu.jpg
