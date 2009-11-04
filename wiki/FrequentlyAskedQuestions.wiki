@@ -30,6 +30,8 @@ Microsoft has made several OpenType Indic script fonts with TrueType outlines, s
     Of course we can. indic-keyboards allows us to type indic language characters in any editable region. This is however subject to whether the mail server is configured to handle unicode. Popular mail service providers like Gmail, Yahoo! provide this functionality.
   # Can I distribute the software?
     Yes. The software can be distributed. The software is licensed under the Apache 2.0. The license can be found in the same directory as a text file "Apache 2.0 License.txt". 
+  # Emails are fine, but can I type using indic-keyboards in the URL (address bar) and search box of my browser?
+    Yes, we can use indic-keyboards to input indic letters in the URL and the search box. This however depends on the browser's support for Unicode. It works on internet explorer, Firefox and Google Chrome. It will work in all browsers supporting Unicode. Browsers without Unicode support or Unicode support disabled, boxes or question marks will appear.
   # I can't find a solution to my problem here
     Please send in your queries, bugs, errors, enhancements and any other problems to :
     * Developer Mailing List - http://groups.google.com/group/cki-dev
