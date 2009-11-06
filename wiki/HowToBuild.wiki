@@ -1,17 +1,80 @@
-#How to build indic-keyboards from source
+#summary How to build indic-keyboards from source
+#labels Phase-Implementation,Phase-Deploy
 
 As indicated on the SystemRequirements wiki page, all the necessary tools have to be installed to build indic-keyboards from source.
 
-Check out the source from the web repository. It can be found [http://code.google.com/p/indic-keyboards/source/checkout here]
+Check out the source from the web repository. Steps to checkout can be found [http://code.google.com/p/indic-keyboards/source/checkout here].
+---------------
+== How to build (Linux) ==
 
-= How to build on Linux =
+Assuming all the necessary tools are present, browse to the directory _indic-keyboards_.
+Now, the building is architecture specific. That is, if a 32-bit version of JDK has been installed, please use *build-linux-x86.xml* build file. If the JDK is a 64-bit version, *build-linux-x86_64.xml* has to be used.
 
+<u>Steps</u>
 
+1.  Browse to the directory _indic-keyboards_.
+<p>
+2.  Place the Eclipse SWT JAR package in the same folder. The version which has been used is 3.4. Higher versions can also be used. 
+<p>
+3.  Run the following : 
+{{{
+ant -f build_filename.xml build -Dswt=the_swt_filename.jar
+}}}
+For example,
+{{{
+ant -f build-linux-x86.xml build -Dswt=swt-swt-3.4-gtk-linux-x86.jar
+}}}
+After executing this, a file *libMIKI-x86.so.1.0* or *libMIKI-x86_64.so.1.0* will be created.
+<p>
+4.  Create the executable JAR by running the following 
+{{{
+ant -f build_filename.xml jar -Dswt=the_swt_filename.jar
+}}}
+A new directory called *dist* will be created which will contain the complete package to run indic-keyboards.
 
+*NOTE* : To clean, run the following :
+{{{
+ant -f build_filename.xml clean
+}}}
+The clean target will remove the _dist_ folder along with other intermediate files.
 
-= Details =
+-----------
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== How to build (Windows) ==
+
+Microsoft Visual C++ is a *must*. It can be obtained from the link provided in the SystemRequirements wiki page.
+
+To install Apache Ant, follow the steps described in the installation section of the manual [http://ant.apache.org/manual/index.html here]
+
+Assuming that everything has been properly set up, follow these steps :
+
+<u>Steps</u>
+
+1. Open Microsoft Windows Command Prompt which is packaged with Microsoft Visual C++.
+<p>
+2. Browse to the directory which contains the source.
+<p>
+3.  Run the following : 
+{{{
+ant -f build_filename.xml build -Dswt=the_swt_filename.jar
+}}}
+For example,
+{{{
+ant -f build-win32-x86.xml build -Dswt=swt-3.4-win32-win32-x86.jar
+}}}
+After executing this, two files *syshook.dll* and *opChars.dll* will be created.
+<p>
+4.  Create the executable JAR by running the following 
+{{{
+ant -f build_filename.xml jar -Dswt=the_swt_filename.jar
+}}}
+A new directory called *dist* will be created which will contain the complete package to run indic-keyboards.
+
+----------
+
+*NOTE* :
+  # Experts can modify the build script to their liking. This needs expertise with Apache Ant's working. 
+  # Other build targets can be listed using
+{{{
+ant -f build_filename.xml -p
+}}}
