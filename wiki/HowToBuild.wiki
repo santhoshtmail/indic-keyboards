@@ -1,0 +1,17 @@
+#How to build indic-keyboards from source
+
+As indicated on the SystemRequirements wiki page, all the necessary tools have to be installed to build indic-keyboards from source.
+
+Check out the source from the web repository. It can be found [http://code.google.com/p/indic-keyboards/source/checkout here]
+
+= How to build on Linux =
+
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
