@@ -18,6 +18,8 @@ Works on Microsoft Windows family and Linux 2.4.x or higher
   * Ant 1.5 or higher (optional)
   * Subversion
 
+On Linux, install libx11-dev package if it is not already installed.
+
 ===_"How to build from source" can be found in HowToBuild wiki page_===  
 ===_"How to get started" can be found in GettingStarted wiki page_===
 
