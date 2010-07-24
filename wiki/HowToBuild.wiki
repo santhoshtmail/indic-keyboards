@@ -24,7 +24,7 @@ For example,
 {{{
 ant -f build-linux-x86.xml build -Dswt=swt-swt-3.4-gtk-linux-x86.jar
 }}}
-After executing this, a file *libMIKI-x86.so.1.0* or *libMIKI-x86_64.so.1.0* will be created.
+After executing this, a file *libIndicKeyboards-x86.so.1.0* or *libIndicKeyboards-x86_64.so.1.0* will be created.
 <p>
 4.  Create the executable JAR by running the following 
 {{{
@@ -62,7 +62,7 @@ For example,
 {{{
 ant -f build-win32-x86.xml build -Dswt=swt-3.4-win32-win32-x86.jar
 }}}
-After executing this, two files *syshook.dll* and *opChars.dll* will be created.
+After executing this, two files *indic-keyboards-syshook.dll* and *indic-keyboards-opChars.dll* will be created.
 <p>
 4.  Create the executable JAR by running the following 
 {{{

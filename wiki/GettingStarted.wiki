@@ -17,10 +17,10 @@ indic-keyboards-x.x-yyy-xzz.zip
 	|
 	|-<kblayouts>  : Contains all the XML files corresponding to the keyboard layouts
 	|-<resources>  : Contains the images and  system tray icons
-	|-Syshook.dll* 
-	|-opChars.dll*
-	|-libMIKI-x86.so.1.0*
-	|-libMIKI-x86_64.so.1.0*
+	|-indic-keyboards-sysHook.dll* 
+	|-indic-keyboards-opChars.dll*
+	|-libIndicKeyboards-x86.so.1.0*
+	|-libIndicKeyboards-x86_64.so.1.0*
 	|-preferences.conf : Configuration information file for linux only.
 	|-indic-keyboards-xxx-x86_xx.jar : Executable java archive.
 	|-License document :  Apache 2.0 license.
